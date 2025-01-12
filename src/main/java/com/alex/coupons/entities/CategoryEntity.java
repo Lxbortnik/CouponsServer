@@ -17,6 +17,7 @@ public class CategoryEntity {
     private List<CouponEntity> coupons;
 
 
+    // constructor
     public CategoryEntity() {
     }
 
